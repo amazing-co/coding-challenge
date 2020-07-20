@@ -52,7 +52,8 @@ discounts
 
 Provide a means of defining and applying various discounts to the cost of customers purchasing experiences from AmazingCo.
 
-- You should focus on your area of strength and interest (Front-End, Back-End or Full-Stack). You have the freedom to complete the challenge your way, and using any programming language.
+- We prefer that you create a private github repository for the test.
+- You should focus on your area of strength and interest (Either C# or JavaSript Full-Stack). You have the freedom to complete the challenge your way.
 - You should provide a copy of your code and include a readme detailing how to run your code as well as how you approached the problem, ideally, the code should be hosted in an online code repository.
 - Please supply us with the URL to your solution as part of your application - you may choose to host your solution however you like, so long as we are able to access it.
 - We're not too fussy about what platform your program runs on, but we do require that we're able to build and run your code ourselves.
