@@ -53,7 +53,8 @@ discounts
 Provide a means of defining and applying various discounts to the cost of customers purchasing experiences from AmazingCo.
 
 - We prefer that you create a private github repository for the test.
-- You should focus on your area of strength and interest (Either PHP, C#/Angular or Typescript/React/NodeJS Full-Stack). You have the freedom to complete the challenge your way.
+- You should focus on your area of strength and interest (PHP, C#/Angular or Typescript/React/NodeJS). You have the freedom to complete the challenge your way.
 - You should provide a copy of your code and include a readme detailing how to run your code as well as how you approached the problem, ideally, the code should be hosted in an online code repository.
+- Feel free to use whatever boilerplate code or framework you usually use - we want to see your ability to write this functional code, plus package it up into an app with a minimum effort, rather than re-invent the wheel
 - Please supply us with the URL to your solution as part of your application if you can - it would be ideal if it was hosted and operational somewhere we could access it.
 - We're not too fussy about what platform your program runs on, but we do require that we're able to build and run your code ourselves.
